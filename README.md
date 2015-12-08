@@ -1,0 +1,2 @@
+# ExportPlugin.sketchplugin
+ExportPlugin
